@@ -26,7 +26,7 @@ $ git push techio
 ```
 $ git clone git@github.com:Nexmo/nexmo-developer-techio-playground.git
 $ cd nexmo-developer-techio-playground
-$ git remote add techio git@ssh.git.tech.io:cg2177040/playground-ltwt8trq.git
+$ git remote add techio git@ssh.git.tech.io:cg2250734/playground-oabzu1po.git
 $ git push techio
 ```
 
