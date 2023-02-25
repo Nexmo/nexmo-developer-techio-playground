@@ -4,7 +4,7 @@
   "license": "ISC",
   "dependencies": {
     "nexmo": "^2.0.2",
-    "mocha": "^3.5.3",
+    "mocha": "^6.0.0",
     "rewire": "^2.5.2"
   },
   "private": true,
